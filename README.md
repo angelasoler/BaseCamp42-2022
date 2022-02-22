@@ -12,6 +12,8 @@
   <img alt="issues" src="https://img.shields.io/github/issues/angelasoler/Tech_Freelance_Project">
 </p>
 
-Software engineer immersion through C language: algorithms, pointers, memory allocation are some of the subjects.
+Software engineer immersion through with learning peer to peer method.
+
+Some of the subjects in C language are: algorithms, pointers, memory allocation.
 
 Also introduction to terminal, shell script and git.
