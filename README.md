@@ -12,7 +12,7 @@
   <img alt="issues" src="https://img.shields.io/github/issues/angelasoler/Tech_Freelance_Project">
 </p>
 
-Software engineer immersion through with learning peer to peer method.
+Software engineer immersion with peer to peer  learning method.
 
 Some of the subjects in C language are: algorithms, pointers, memory allocation.
 
