@@ -1,0 +1,9 @@
+[submodule "Shell00"]
+	path = Shell00
+	url = https://github.com/angelasoler/Shell00.git
+[submodule "Shell01"]
+	path = Shell01
+	url = https://github.com/angelasoler/Shell01.git
+[submodule "C00"]
+	path = C00
+	url = https://github.com/angelasoler/C00.git
