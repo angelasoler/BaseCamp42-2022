@@ -1,5 +1,7 @@
 <h1 align="center">
-  :woman_technologist: BaseCamp42 - 02/2022
+  :woman_technologist: BaseCamp42
+  
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl263316l006809l0mxrfwgrw/stats?cursusId=36&coalitionId=undefined" alt="asoler's 42 stats" /></a>
 </h1>
 
 <p align="center">
